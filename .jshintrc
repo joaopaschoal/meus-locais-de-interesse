@@ -1,0 +1,9 @@
+{
+	"unused": true,
+	"undef": true,
+	"node": true,
+	"dojo": true,
+	"browser": true,
+	"devel": true,
+	"validthis": true
+}

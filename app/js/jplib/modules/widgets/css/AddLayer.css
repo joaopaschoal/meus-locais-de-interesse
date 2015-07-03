@@ -1,0 +1,10 @@
+#div_add_layer_content {
+	display: none;
+}
+
+#div_add_layer_content #div_add_layer select {
+	width: 300px;
+}
+#div_add_layer_content input[type="radio"] {
+	vertical-align: 2px;
+}

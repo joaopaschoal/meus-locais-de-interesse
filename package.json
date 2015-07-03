@@ -1,0 +1,25 @@
+{
+  "name": "meus_locais_de_interesse",
+  "version": "0.1.0",
+  "description": "Aplicativo para registrar locais de interesse de temas diversos no mapa.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-esri-slurp": "^1.4.6",
+    "intern": "^2.2.2",
+    "selenium-server": "^2.45.0"
+  },
+  "scripts": {
+    "test": "test_units"
+  },
+  "author": "Joao Paulo Paschoal",
+  "license": "ISC"
+}

@@ -1,0 +1,47 @@
+html,body, #container, #div_map {
+	padding:0;
+	margin:0;
+	height:100%;
+}
+
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+label {
+	font-weight: normal;
+}
+
+#header {
+	background-color: ##e3e2e2;
+	width: 100%;
+	height: 4em;
+	border-bottom: 1px solid #c0c0c0;
+}
+
+#h1_app_title {
+	font-size: 1.1em;
+	display: inline-block;
+	margin: 0;
+}
+
+#img_app_icon {
+	width: 28px;
+	height: 28px;
+	display: inline-block;
+	/*vertical-align: -4px;
+	margin-left: 1.5em;*/
+}
+
+
+/* ------------------- CUSTOMIZAÇÕES ------------------- */
+
+/* --- BootStrap ---- */
+.navbar.navbar-default {
+	margin-bottom: 0px;
+}
+
+.nav.navbar-nav li:hover {
+	font-weight: bold;
+}
+

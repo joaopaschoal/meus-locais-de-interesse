@@ -1,0 +1,1406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"get",
+				"getSampleLayesUrls"
+			],
+			[
+				"remove",
+				"removeLayer"
+			],
+			[
+				"Arc",
+				"ArcGISDynamicMapServiceLayer"
+			],
+			[
+				"dfd",
+				"dfdMapLoaded"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"bdd",
+				"bddMap"
+			],
+			[
+				"asy",
+				"asyncErrorMsg"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"addLa",
+				"addLayer"
+			],
+			[
+				"l",
+				"langDJ"
+			],
+			[
+				"def",
+				"defaultCfg"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"is",
+				"isDOMElementOrNotEmptyString"
+			],
+			[
+				"re",
+				"returnVal"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"modu",
+				"moduleWidgetBase"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"Add",
+				"AddLayerTemplate"
+			],
+			[
+				"afterE",
+				"afterEachBase"
+			],
+			[
+				"beforeE",
+				"beforeEachBase"
+			],
+			[
+				"bef",
+				"beforeBase"
+			],
+			[
+				"func",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/support/bdd.js",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/intern/lib/interfaces/tdd.js",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/support/bddMap.js",
+			"settings":
+			{
+				"buffer_size": 4389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.php",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/includes/navbar_menu.php",
+			"settings":
+			{
+				"buffer_size": 1426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/main.css",
+			"settings":
+			{
+				"buffer_size": 654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1625,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/modules/widgets/AddLayer.js",
+			"settings":
+			{
+				"buffer_size": 2899,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/modules/widgets/css/AddLayer.css",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/modules/widgets/html/AddLayer.tpl.html",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/core/dojoFacade.js",
+			"settings":
+			{
+				"buffer_size": 1435,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/modules/helpers/map/MapHelper.js",
+			"settings":
+			{
+				"buffer_size": 860,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/BasemapTool.js",
+			"settings":
+			{
+				"buffer_size": 5795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/includes/default_assets.php",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/jplib/modules/widgets/_Widget.js",
+			"settings":
+			{
+				"buffer_size": 2822,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "package control instal",
+		"selected_items":
+		[
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control R",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ColorSub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/css",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/img",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/includes",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/helpers",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets/css",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/support",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules/map",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules/widgets"
+	],
+	"file_history":
+	[
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets/html/AddLayer.tpl.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets/css/AddLayer.css",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/includes/navbar_menu.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/index.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules/widgets/_ModuleWidgetBaseUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules/map/layerHelperUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/helpers/map/LayerHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets/AddLayer.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/intern.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/helpers/map/MapHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/unit/modules/map/mapHelperUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/proxy/proxy.config",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/core/dojoFacade.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/main.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/core/languageCore.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/tests/unit/widgets/LayerListToolUnitTest.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/support/bddMapWidget.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/widgets/_ModuleWidgetBase.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/PrintScreenTool.js",
+		"/C/Programas Standalone/Sublime Text 3/Packages/JavaScript.sublime-package",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/User/if.sublime-snippet",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/User/test.sublime-snippet",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/modules/_ModuleBase.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/index.php",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/.jshintrc",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/PrinterTool.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/_InformsWidgetBase.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/conf/widgets/defaultConf.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/main.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/conf/widgets/drawToolConf.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/core_js/_ModuleBase.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/EraserTool.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/run.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/includes/default_assets.php",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/teste.php",
+		"/K/MapasMunicipaisJS/MapasMunicipais/js/conf/widgets/defaultConf.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/testes.html",
+		"/K/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/_InformsWidgetBase.js",
+		"/K/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/facades/dojoFacade.js",
+		"/K/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/core_js/informsCore.js",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/User/class.sublime-snippet",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/tests/support/bddJp.js",
+		"/K/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/DrawTool.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/modules/map/LayerHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/js/jplib/widgets/AddLayer.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/app/css/main.css",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementação/meus-locais-de-interesse/index.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementação/meus-locais-de-interesse/app/js/jplib/widgets/html/AddLayer.tpl.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/jplib/core/dojoFacade.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/jplib/core/languageCore.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/tests/unit/modules/map/layerHelperUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/index.php",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/map/MapHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/jplib/widgets/addLayerToMap.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/node_modules/intern/lib/interfaces/tdd.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/node_modules/intern/lib/interfaces/bdd.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/node_modules/intern/lib/interfaces/bddJp.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/node_modules/intern/lib/interfaces/object.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/map/LayerHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/tests/unit/modules/helloModuleUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/includes/default_assets.php",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/index.html",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/core/_ModuleBase.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/proxy/proxy.php",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/Gruntfile.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/run.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/.jshintrc",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/JSHint Gutter/.jshintrc",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/main.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/.jshintignore",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/bower.json",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/package.json",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/jshintify/Jshintify.sublime-settings",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/JSLint/JSLint.sublime-settings",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/css/main.css",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/map/mapHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/vendor/arcgis_js_api/3.13/init.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/vendor/arcgis_js_api/3.13/dojo/dojo.js",
+		"/C/Users/JOAOPA~1/AppData/Local/Temp/Rar$DRa0.760/arcgis_js_v313_api/arcgis_js_api/library/3.13/3.13/init.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/LayerHelper.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/map/LayerLoader.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/tests/unit/modules/map/mapHelperUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/helloModule.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/tests/unit/modules/sayHelloUT.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/tests/intern.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/vendor/arcgis_js_api/3.13/esri/nls/jsapi.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/vendor/arcgis_js_api/3.13/esri/layers/FeatureLayer.js",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/vendor/arcgis_js_api/3.13/dgrid/Keyboard.js",
+		"/C/Programas Standalone/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/app/js/modules/olaModule.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse, -node_modules/*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse\\,-\"D:/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/node_modules/*.*\"",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse\\,-D:/Meus Documentos/Meus Projetos/Javascript/Meus Locais de Interesse/4. Implementacao/meus-locais-de-interesse/node_modules/*.*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse\\,-D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse\\node_modules\\*.*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\meus-locais-de-interesse\\,-D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\4. Implementacao\\node_modules\\*.*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse,-D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\node_modules\\*.*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse,-D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse\\node_modules\\*.*",
+			"D:\\Meus Documentos\\Meus Projetos\\Javascript\\Meus Locais de Interesse"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div_container_dialog",
+			"div_container_add_layer_widget",
+			"div_add_layer",
+			"contentDialog",
+			"criarDialogAddLayer",
+			"dialog",
+			"loadWidgets",
+			"': ",
+			"ModuleWidgetBase",
+			"_ModuleWidgetBase",
+			"getSupportedLayerTypes",
+			"typeFeatureLayer",
+			"TYPE_FEATURE_LAYER",
+			"type_feature_layer",
+			"TYPE_FEATURE_LAYER",
+			"type_feature_layer",
+			"TYPE_FEATURE_LAYER",
+			"Supported",
+			"mapLayer",
+			"MapLayer",
+			"mapLayer",
+			"MapLayer",
+			"ArcGISDynamicMapServiceLayer",
+			"MapLayer",
+			"Feature",
+			"feature",
+			"Feature",
+			"feature",
+			"sampleLayers",
+			"samplelayers",
+			"sampleLayers",
+			"registerEventAwaitMsg",
+			"registerEventAwait",
+			"asyncErrorMsg",
+			"register",
+			"asyncErrorMsg",
+			"event",
+			"mapToTest",
+			"elper.addLayer",
+			"addLayer",
+			"addLayerFromUrlAndType",
+			"http://services2.arcgis.com",
+			"pmsMapLoaded",
+			"loadTheMap",
+			"pmsMapLoaded",
+			"setupTestsUsingMap",
+			"timeout",
+			"Timeout",
+			"timeout",
+			"pmsMapLoaded",
+			"asyncErrorMsg",
+			"bddMap",
+			"Map",
+			"map",
+			"Map",
+			"map",
+			"createDivMapHolder",
+			"mapToTest",
+			"asyncErrorCallback",
+			"registerTestsProxy",
+			"setupTestsUsingMap",
+			"registerProxy",
+			"bdd",
+			"setupTestsUsingMap",
+			"mapToTest",
+			"createMap",
+			"mapToTest",
+			"OAuthInfo",
+			"urlUtils",
+			"esriId",
+			"OAuthInfo",
+			"bdd",
+			"setup",
+			"tdd",
+			"_ModuleWidgetBase",
+			"bddJp",
+			"if",
+			"params)",
+			"(url)",
+			"url",
+			"this",
+			"=",
+			"bindings",
+			"constantes",
+			"$lc.ctx(",
+			"TYPE",
+			"TYPE_",
+			"2",
+			"Aprovado",
+			"- PcD",
+			"Classificado",
+			"- PcD",
+			"Classificado",
+			"/",
+			"- PcD",
+			"Classificado",
+			"/",
+			"Classificado",
+			"540",
+			"-",
+			"srcStylesTargetNode",
+			"lc",
+			"				$",
+			"appSrcStyleNode",
+			"appSrcParentNode",
+			"appTemplateString",
+			"appDefaultCfg",
+			"params",
+			"srcParentNode",
+			"initialize",
+			"defaults",
+			"=",
+			"TemplateString",
+			"templateString",
+			"TemplateString",
+			"templateString",
+			"this",
+			"this.templateString = $lc.isSet(params.appTemplateString) ? params.appTemplateString : defaults.defaultTemplateString;",
+			"setupApp",
+			"srcParentNode",
+			"initializeAttributes",
+			"defaultTemplateString",
+			"defaults",
+			"defaultS",
+			"defaults",
+			":",
+			",",
+			"defaults"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"registerEventAwaitMsg",
+			"testMap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/support/bdd.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "node_modules/intern/lib/interfaces/tdd.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/support/bddMap.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2275,
+								2275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/includes/navbar_menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/js/jplib/modules/widgets/AddLayer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1796,
+								1796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/js/jplib/modules/widgets/css/AddLayer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/js/jplib/modules/widgets/html/AddLayer.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/js/jplib/core/dojoFacade.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1348,
+								1348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/js/jplib/modules/helpers/map/MapHelper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/Meus Documentos/Meus Projetos/Javascript/MapasMunicipaisJS/MapasMunicipais/js/informsjslib/informs/widgets/BasemapTool.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4948,
+								4749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/includes/default_assets.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/js/jplib/modules/widgets/_Widget.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2563,
+								2579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript - Cópia/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 164.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "meus-locais-de-interesse.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"maphelp",
+				"app\\js\\jplib\\modules\\helpers\\map\\MapHelper.js"
+			],
+			[
+				"addlayer",
+				"app\\js\\jplib\\modules\\widgets\\html\\AddLayer.tpl.html"
+			],
+			[
+				"main",
+				"app\\js\\main.js"
+			],
+			[
+				"addla",
+				"app\\js\\jplib\\modules\\widgets\\css\\AddLayer.css"
+			],
+			[
+				".tpl",
+				"app\\js\\jplib\\modules\\widgets\\html\\AddLayer.tpl.html"
+			],
+			[
+				"main.css",
+				"app\\css\\main.css"
+			],
+			[
+				"dojof",
+				"app\\js\\jplib\\core\\dojoFacade.js"
+			],
+			[
+				"addlayer.tpl",
+				"app\\js\\jplib\\modules\\widgets\\html\\AddLayer.tpl.html"
+			],
+			[
+				"default",
+				"app\\includes\\default_assets.php"
+			],
+			[
+				"index",
+				"app\\index.php"
+			],
+			[
+				"_widget",
+				"app\\js\\jplib\\modules\\widgets\\_Widget.js"
+			],
+			[
+				"layerh",
+				"app\\js\\jplib\\modules\\helpers\\map\\LayerHelper.js"
+			],
+			[
+				"dojofaca",
+				"app\\js\\jplib\\core\\dojoFacade.js"
+			],
+			[
+				"bddm",
+				"tests\\support\\bddMap.js"
+			],
+			[
+				"prox",
+				"proxy\\proxy.config"
+			],
+			[
+				"proxy",
+				"proxy\\proxy.config"
+			],
+			[
+				"maphel",
+				"app\\js\\jplib\\modules\\helpers\\map\\MapHelper.js"
+			],
+			[
+				"maphe",
+				"tests\\unit\\modules\\map\\mapHelperUT.js"
+			],
+			[
+				"languag",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"tdd",
+				"node_modules\\intern\\lib\\interfaces\\tdd.js"
+			],
+			[
+				"dojofa",
+				"app\\js\\jplib\\core\\dojoFacade.js"
+			],
+			[
+				"",
+				"app\\js\\jplib\\modules\\widgets\\html\\AddLayer.tpl.html"
+			],
+			[
+				"_moduleb",
+				"app\\js\\jplib\\modules\\_ModuleBase.js"
+			],
+			[
+				"tpl.",
+				"app\\js\\jplib\\modules\\widgets\\html\\AddLayer.tpl.html"
+			],
+			[
+				"addl",
+				"app\\js\\jplib\\modules\\widgets\\AddLayer.js"
+			],
+			[
+				"language",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"jshint",
+				".jshintrc"
+			],
+			[
+				"languagec",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"run",
+				"app\\js\\run.js"
+			],
+			[
+				"langua",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"langu",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"inde",
+				"app\\index.php"
+			],
+			[
+				"defaulta",
+				"app\\includes\\default_assets.php"
+			],
+			[
+				"intern",
+				"tests\\intern.js"
+			],
+			[
+				"bddjp",
+				"tests\\support\\bddJp.js"
+			],
+			[
+				"maph",
+				"tests\\unit\\modules\\map\\mapHelperUT.js"
+			],
+			[
+				"bdd",
+				"tests\\support\\bddJp.js"
+			],
+			[
+				"inte",
+				"tests\\intern.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"doof",
+				"app\\js\\jplib\\core\\dojoFacade.js"
+			],
+			[
+				"object",
+				"node_modules\\intern\\lib\\interfaces\\object.js"
+			],
+			[
+				"bddj",
+				"node_modules\\intern\\lib\\interfaces\\bddJp.js"
+			],
+			[
+				"hellomoduleut",
+				"tests\\unit\\modules\\helloModuleUT.js"
+			],
+			[
+				"mai",
+				"app\\css\\main.css"
+			],
+			[
+				"defau",
+				"app\\includes\\default_assets.php"
+			],
+			[
+				"_modulebase",
+				"app\\js\\modules\\core\\_ModuleBase.js"
+			],
+			[
+				"layerut",
+				"tests\\unit\\modules\\map\\layerHelperUT.js"
+			],
+			[
+				"layer",
+				"app\\js\\modules\\map\\LayerHelper.js"
+			],
+			[
+				"jshintrc",
+				".jshintrc"
+			],
+			[
+				"_module",
+				"app\\js\\modules\\core\\_ModuleBase.js"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"layerhelper",
+				"app\\js\\modules\\map\\LayerHelper.js"
+			],
+			[
+				"run.js",
+				"app\\js\\run.js"
+			],
+			[
+				"grunfti",
+				"Gruntfile.js"
+			],
+			[
+				".jshint",
+				".jshintrc"
+			],
+			[
+				"jshintr",
+				".jshintrc"
+			],
+			[
+				".",
+				".jshintrc"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"dojofac",
+				"app\\js\\jplib\\core\\dojoFacade.js"
+			],
+			[
+				"main.js",
+				"app\\js\\main.js"
+			],
+			[
+				"main.",
+				"app\\css\\main.css"
+			],
+			[
+				"maphelpe",
+				"app\\js\\modules\\map\\mapHelper.js"
+			],
+			[
+				"maphelper",
+				"app\\js\\modules\\map\\mapHelper.js"
+			],
+			[
+				"init",
+				"app\\js\\vendor\\arcgis_js_api\\3.13\\init.js"
+			],
+			[
+				"dojo.js",
+				"app\\js\\vendor\\arcgis_js_api\\3.13\\dojo\\dojo.js"
+			],
+			[
+				"init.",
+				"app\\js\\vendor\\arcgis_js_api\\3.13\\init.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"langcore",
+				"app\\js\\jplib\\core\\languageCore.js"
+			],
+			[
+				"maphelperut",
+				"tests\\unit\\modules\\map\\mapHelperUT.js"
+			],
+			[
+				"defaul",
+				"app\\includes\\default_assets.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\cobaia\\cobaia.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

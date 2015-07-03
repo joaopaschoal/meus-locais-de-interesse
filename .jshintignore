@@ -1,0 +1,4 @@
+# caminhos de arquivos para ignorar separados por ENTER
+# Os padrões *.* ou *.js são permitidos
+
+app/js/vendor/**/*.*
